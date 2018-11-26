@@ -3658,7 +3658,8 @@
   :metric: false
   :special: false
   :arbitrary: false
-  
+ 
+    
 - :names: inh2o
   :symbol: inh2o
   :primary_code: inh2o
@@ -4009,4 +4010,29 @@
   :special: false
   :arbitrary: false
 
+# Thermal Resistance
+- :names: hrF_btu
+  :symbol: hrF_btu
+  :primary_code: hrF_btu
+  :secondary_code: hrF_btu
+  :scale:
+    :value: 1.0
+    :unit: '1'
+  :classification: misc
+  :property: thermal_resistance
+  :metric: false
+  :special: false
+  :arbitrary: false
 
+- :names: C/W
+  :symbol: C/W
+  :primary_code: C/W
+  :secondary_code: C/W
+  :scale:
+    :value: 0.52750
+    :unit: hrF_btu
+  :classification: misc
+  :property: thermal_resistance
+  :metric: false
+  :special: false
+  :arbitrary: false
