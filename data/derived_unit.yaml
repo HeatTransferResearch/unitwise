@@ -4030,7 +4030,7 @@
   :secondary_code: C/W
   :scale:
     :value: 0.52750
-    :unit: hrF_btu
+    :unit: 'hrF_btu'
   :classification: misc
   :property: thermal_resistance
   :metric: false
