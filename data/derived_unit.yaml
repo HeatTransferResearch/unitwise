@@ -4036,3 +4036,18 @@
   :metric: false
   :special: false
   :arbitrary: false
+
+# Rotational Speed
+- :names: rpm
+  :symbol: rpm
+  :primary_code: rpm
+  :secondary_code: rpm
+  :scale:
+    :value: 1.0
+    :unit: '1'
+  :classification: misc
+  :property: rotational_speed
+  :metric: false
+  :special: false
+  :arbitrary: false
+
